@@ -2,8 +2,21 @@ main p{
     font-family: 'Roboto', sans-serif;
     font-weight: bolder;
 }
+.section-1{
+    background-color: rgb(226, 218, 218);
+}
+.section-2{
+    background-color: rgb(250, 213, 200);
+}
+.section-3{
+    background-color: rgb(231, 221, 241);
+}
+.section-4{
+    background-color: rgb(236, 204, 204);
+}
 .icon{
     width: 300px;
+    padding-left: 15%;
     
 }
 .model-picture{
